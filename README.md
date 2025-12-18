@@ -589,7 +589,7 @@ git push origin feature/amazing-feature
 
 <div align="center">
 
-**Made with ❤️ by VOICEBOX Team**
+**Made with by ASSISTIX TEAM**
 
 ⭐ Поставьте звезду, если проект вам помог! ⭐
 
